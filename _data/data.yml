@@ -63,7 +63,7 @@ education:
       time: 2023 - 2025
       details: |
 
-    - degree: BSc in Applied Mathematics
+    - degree: MS-Ph.D student at Graduate School of Semiconductor Technology
       university: in CAD & SoC Design Lab(CSDL), Pohang University of Science and Technology(POSTECH), Pohang, South Korea.
       time: 2026 - Present
       details: |
@@ -83,6 +83,17 @@ publications:
 
 
 skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 98%
+
+      - name: Verilog
+        level: 85%
+
+      - name: C/C++
+        level: 60%
 
 
 footer: >
