@@ -41,7 +41,7 @@ sidebar:
       - item: EDA (Electronic Design Automation)
         link:
         
-      - item: ML-CAD
+      - item: AI-EDA
         link:
 
       - item: Physical Design
@@ -87,10 +87,10 @@ skills:
 
     toolset:
       - name: Python
-        level: 98%
+        level: 75%
 
       - name: Verilog
-        level: 85%
+        level: 75%
 
       - name: C/C++
         level: 60%
